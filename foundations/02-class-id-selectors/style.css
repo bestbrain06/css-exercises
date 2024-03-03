@@ -1,0 +1,19 @@
+.group-class {
+  background-color: #ffb6c1;
+  font-family: Verdana, sans-serif;
+}
+
+#first-id {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.group-class.class {
+  font-size: 32px;
+}
+
+#second-id {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
