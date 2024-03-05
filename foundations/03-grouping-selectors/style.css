@@ -1,4 +1,5 @@
-.button {
+.button-first,
+.button-second {
   font-size: 28px;
   font-family: Helvetica, "Times New Roman", Times, sans-serif;
 }
